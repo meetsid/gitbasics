@@ -1,1 +1,1 @@
-This is test file and verify if the merge is working and download this one too
+text is changed on server for merging tools
